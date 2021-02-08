@@ -1,44 +1,8 @@
 {
 	"attributes": [{
-			"trait_type": "",
-			"value": ""
-		},
-		{
-			"trait_type": "",
-			"value": ""
-		},
-		{
-			"trait_type": "",
-			"value": ""
-		},
-		{
-			"trait_type": "",
-			"value": 
-		},
-		{
-			"trait_type": "",
-			"value": 
-		},
-		{
-			"trait_type": "",
-			"value": ""
-		},
-		{
-			"display_type": "",
-			"trait_type": "",
-			"value": 10
-		},
-		{
-			"display_type": "",
-			"trait_type": "",
-			"value": 
-		},
-		{
-			"display_type": "",
-			"trait_type": "",
-			"value": 
-		}
-	],
+		"trait_type": "",
+		"value": ""
+	}],
 	"description": "The Luccheses, headed by Tommy Lucchese, will be one of the first Umbrella Network Families.  Based off of one of the original 5 New York Mafia Families.",
 	"external_url": "https://raw.githubusercontent.com/williamzng/Lucchese_assets/main",
 	"image": "https://raw.githubusercontent.com/williamzng/Lucchese_assets/main/lucchese.jpg",
